@@ -1,0 +1,153 @@
+.intro-container {
+    color: antiquewhite;
+    background-color: #070F2B;
+    display: flex;
+    flex-wrap: wrap; 
+height: 600px; 
+margin-left: 1fr;}
+
+
+    .saad {
+        font-size: 20px;
+        align-items: center;
+        align-content: center;
+        margin-left: 40%;
+        margin-top: 250px;
+    }
+    
+    h1 {
+        font-size: 50px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+   font-style: italic;
+   text-align: center;
+    }
+    h3 { font-size: 30px ;
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif
+
+    }
+
+    img {
+        border-radius: 50%;
+        border: #070F2B;
+        border-color: #070F2B;
+        border-style: solid black;
+        margin-top: 50px;
+        
+        
+    }
+
+    .mid-container {
+        align-content: center;
+        align-items: center;
+        text-align: center;
+        margin-top: 30px;
+        font-size: 40px;
+        color:rgb(83, 92, 145) ;
+        font-family: sans-serif;
+    }
+
+    .skill-container {
+        display:flex;
+        flex-wrap: wrap;
+        flex: auto;
+        gap: 100px;
+        background-color:#070F2B;
+        color: antiquewhite;
+        margin-right: 10px;
+        margin-left: 10px;
+        
+    }
+        
+    .item {
+        width: 200px;
+        text-align: center;
+        height:250px ;
+        margin-top: 30px;
+        align-content: center;
+        margin-right:auto;
+        margin-right: auto;
+        font-family: sans-serif
+        
+    }
+
+    .item > img { width: 100px;
+        height: 150px;
+        margin-left: 10px;
+
+
+    }
+    
+    .xbox { text-align: center;
+        align-items: center;
+        font-size: 50px;
+        color:rgb(160, 21, 62) ;
+        font-family: sans-serif;
+
+
+    }
+
+    .contact-me {
+        width: auto;
+        height: auto;
+        text-align: center;
+        align-content: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 30px;
+        font-style:normal;
+        color: #070F2B;
+        margin-top: 50px;
+        font-size: 2.5rem;
+        
+    }
+
+    .contact-box { width: 300px;
+        height: auto;
+        border-radius: 20px;
+        background-color: #d3d4d8;
+        align-content: center;
+        text-align: center;
+        position: relative;
+        left: 40%;
+        margin-top: 50px;
+    
+
+    }
+
+
+
+        
+    .footer { display: block;
+        text-align: center;
+        align-content: space-between;
+        font-size: medium;
+        margin-top: 150px;
+        font-size: 30px;
+        background-color: #070F2B;
+        color: antiquewhite ;
+        height: auto;
+        width: auto;
+        gap: 20px;
+        align-self: auto;
+        padding-top: 50px;
+    }
+
+    footer {
+        padding-top: 250px;
+        font-size: 15px;
+        font-weight: lighter;
+    }
+
+    .footer > a { margin-top: 20px;
+        align-content: space-around;
+
+
+    }
+
+    html {
+
+        background-color:white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: auto;
+        align-items: center;
+    }
